@@ -10,5 +10,16 @@
 
 ### Retrieved-Based(검색 기반)
 
+### chatGPT API
+
+
+#### parameter
+- Model : https://platform.openai.com/docs/models
+- Model configuration 
+    + Temperature : 정교 < 1 > 아무말
+    + Max tokens : 단어(?) 최대 갯수 
+    + Top P or frequency pernalty : 반복 문장에 대한 제약
+
+
 
 
